@@ -1,10 +1,12 @@
 # fresh project
 
-### Usage
+deno biolerplate
+
+## Usage
 
 Start the project:
 
-```
+```shell
 deno task start
 ```
 
